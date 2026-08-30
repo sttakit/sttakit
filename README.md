@@ -1,13 +1,44 @@
-<img width="850" height="496" alt="image" src="https://github.com/user-attachments/assets/a9a62269-a3ed-4010-8d44-972b478a979d" />
+<div align="center">
 
-<h1 align="center">Hi there, <em>I'm Kate</em></a> 
+<img width="850" height="496" alt="banner" src="https://github.com/user-attachments/assets/a9a62269-a3ed-4010-8d44-972b478a979d">
 
-<h2>I like doing editing and writing frontend code. 
-  Can I just chill and get money in my bank account, please?</h2>
+<h1>Hi there, <em>I'm Kate</em> 👋</h1>
 
-<img src="https://github.com/user-attachments/assets/0a0453cf-57a0-4044-ae69-104acc0314c6"
-     width="300"
-     align="left"
-     style="transform: scaleX(-1);">
+<h2>
+I like doing editing and writing frontend code.<br>
+Can I just chill and get money in my bank account, please?
+</h2>
 
-<h1>cool</h1>
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img width="400" alt="Kate" src="https://github.com/user-attachments/assets/ba3a48cb-aa43-49e2-872b-455ee89d3e5e">
+
+</td>
+
+<td width="50%" valign="middle">
+
+<h1>cool ✦</h1>
+
+<h3>About me</h3>
+
+<p>
+I'm Kate — a frontend developer and editor who enjoys creating
+pretty things and writing code.
+</p>
+
+<p>
+💻 Frontend development<br>
+🎨 Editing & design<br>
+✨ Creative projects<br>
+☕ Surviving on caffeine
+</p>
+
+</td>
+</tr>
+</table>
