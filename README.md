@@ -5,4 +5,9 @@
 <h2>I like doing editing and writing frontend code. 
   Can I just chill and get money in my bank account, please?</h2>
 
-<img width="736" height="300" alt="1788117803411" src="https://github.com/user-attachments/assets/0a0453cf-57a0-4044-ae69-104acc0314c6" />
+<img src="https://github.com/user-attachments/assets/0a0453cf-57a0-4044-ae69-104acc0314c6"
+     width="300"
+     align="left"
+     style="transform: scaleX(-1);">
+
+<h1>cool</h1>
