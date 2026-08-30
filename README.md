@@ -23,9 +23,7 @@ Can I just chill and get money in my bank account, please?
 
 <td width="50%" valign="middle">
 
-<h1>cool ✦</h1>
-
-<h3>About me</h3>
+<h1>About me</h1>
 
 <p>
 I'm Kate — a frontend developer and editor who enjoys creating
