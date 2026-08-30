@@ -1,1 +1,3 @@
-<h1 align="left">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Kate</a> 
+<img src="https://pin.it/3KXPnUqd8"
+
+<h1 align="left">Hi there, I'm Kate</a> 
