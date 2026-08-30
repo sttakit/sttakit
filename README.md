@@ -10,33 +10,3 @@ Can I just chill and get money in my bank account, please?
 </h2>
 
 </div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img width="400" alt="Kate" src="https://github.com/user-attachments/assets/ba3a48cb-aa43-49e2-872b-455ee89d3e5e">
-
-</td>
-
-<td width="50%" valign="middle">
-
-<h1>About me</h1>
-
-<p>
-I'm Kate — a frontend developer and editor who enjoys creating
-pretty things and writing code.
-</p>
-
-<p>
-💻 Frontend development<br>
-🎨 Editing & design<br>
-✨ Creative projects<br>
-☕ Surviving on caffeine
-</p>
-
-</td>
-</tr>
-</table>
