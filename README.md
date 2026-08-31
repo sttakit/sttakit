@@ -10,3 +10,6 @@ Can I just chill out, and they’ll just send me the money to my card?
 </h2>
 
 </div>
+
+<img width="300" height="300" alt="“Cats With Pawerful Aura”_ 50 Hilarious Cats To Boost Your Aura Points - AOL" src="https://github.com/user-attachments/assets/d7546178-9838-4086-8a69-e566100bfc22" />
+
