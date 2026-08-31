@@ -6,7 +6,7 @@
 
 <h2>
 I like doing editing and writing frontend code.<br>
-Can I just chill and get money in my bank account, please?
+Can I just chill out, and they’ll just send me the money to my card?
 </h2>
 
 </div>
