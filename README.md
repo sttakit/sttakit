@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="850" height="496" alt="banner" src="https://github.com/user-attachments/assets/a9a62269-a3ed-4010-8d44-972b478a979d">
+<img width="850" height="496" alt="banner" src="<img width="735" height="428" alt="image" src="https://github.com/user-attachments/assets/3bcb1988-db74-4203-8500-8ae634d2951d" />
+">
 
 <h1>Hi there, <em>I'm Kate</em> 👋</h1>
 
